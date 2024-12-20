@@ -14,8 +14,6 @@ Este projeto é uma página de destino responsiva para a plataforma fictícia "M
 
 A **Manage Landing Page** foi desenvolvida para simular uma página de destino que destaca os principais benefícios e funcionalidades de uma plataforma de gestão de equipes. O objetivo é praticar conceitos de HTML, CSS e JavaScript, criando um layout moderno e responsivo que seja atrativo e funcional.
 
-![Preview do Projeto](./images/preview.png)
-
 ---
 
 ## Funcionalidades
