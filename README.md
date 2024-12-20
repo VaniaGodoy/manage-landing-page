@@ -54,4 +54,9 @@ A **Manage Landing Page** foi desenvolvida para simular uma página de destino q
 
 ## Autor
 
-- **GitHub:** [Vania Godoy ♥](https://github.com/VaniaGodoy)
+- **GitHub:** [Vania Godoy](https://github.com/VaniaGodoy)
+- **Perfil no Frontend Mentor:** [Vania Godoy](https://www.frontendmentor.io/profile/VaniaGodoy)
+
+---
+
+Bora codar! 🚀
